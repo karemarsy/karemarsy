@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Dacade](https://dacade.org/)
 
-- 🌱 I’m currently learning **vue, react**
+- 🌱 I’m currently learning **vue**
 
 - 👯 I’m looking to collaborate on [neueux](https://neueux.com/)
 
 - 👨‍💻 All of my projects are available at [https://octan.group/](https://octan.group/)
 
-- 💬 Ask me about **javascript,css,html,wordpress,tailwind,shopify**
+- 💬 Ask me about **javascript, CSS, HTML, WordPress, tailwind, Shopify, react, next, javascript**
 
 - 📫 How to reach me **arsene@octan.group**
 
