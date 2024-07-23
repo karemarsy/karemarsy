@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **javascript, CSS, HTML, WordPress, tailwind, Shopify, react, next, javascript**
 
-- 📫 How to reach me **arsene@octan.group**
+- 📫 How to reach me **karemarsy@gmail.com**
 
 - ⚡ Fun fact **I think I'm fun 😁**
 
