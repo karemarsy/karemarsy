@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://octan.group/](https://octan.group/)
 
-- 💬 Ask me about **javascript, CSS, HTML, WordPress, tailwind, Shopify, react, next, javascript**
+- 💬 Ask me about **JavaScript, CSS, HTML, WordPress, tailwind, Shopify, React, next.js, TypeScript, Vue**
 
 - 📫 How to reach me **karemarsy@gmail.com**
 
