@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arsene</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
-- 🔭 I’m currently Building scalable frontend systems at AdFinance
+- 🔭 I’m currently building scalable frontend systems at AdFinance
 
-- 🌱 Specializing in React / Next.js expertise, Performance optimization, UI/UX and design systems, Shopify development, Team leadership / mentoring, Architecture & scalability, International client experience
+- 🌱 Specializing in React / Next.js expertise, Performance optimization, UI/UX and design systems, Shopify development, Team leadership/mentoring, Architecture & scalability, and international client experience
 
 - 👯 I’m looking to collaborate on [neueux](https://neueux.com/)
 
