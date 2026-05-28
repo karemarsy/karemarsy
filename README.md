@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arsene</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
-- 🔭 I’m currently working on [Dacade](https://dacade.org/)
+- 🔭 I’m currently Building scalable frontend systems at AdFinance
 
-- 🌱 I’m currently learning **vue**
+- 🌱 Specializing in React / Next.js expertise, Performance optimization, UI/UX and design systems, Shopify development, Team leadership / mentoring, Architecture & scalability, International client experience
 
 - 👯 I’m looking to collaborate on [neueux](https://neueux.com/)
 
-- 👨‍💻 All of my projects are available at [https://octan.group/](https://octan.group/)
+- 👨‍💻 All of my projects are available at [(https://www.adfinance.co/)]
 
-- 💬 Ask me about **JavaScript, CSS, HTML, WordPress, tailwind, Shopify, React, next.js, TypeScript, Vue**
-
+- 💬 Ask me about **tailwind css, Shopify, React, next.js, TypeScript, Vue**
+ 
 - 📫 How to reach me **karemarsy@gmail.com**
 
 - ⚡ Fun fact **I think I'm fun 😁**
